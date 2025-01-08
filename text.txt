@@ -1,0 +1,107 @@
+Hour 1 – Understand the Role and Company (1 hour)
+    Research Lendable:
+        •	Mission: Simplify and speed up finance using machine learning.
+        •	Products: Loans, credit cards, car finance.
+        •	Business Model: Risk-based pricing and securitization of loans.
+
+    Role Requirements:
+        •	Focus on underwriting models, risk assessments, and SQL/Python skills.
+        •	Highlight deployment experience with MLOps and APIs.
+
+
+Hour 2-5 Review Your Experience and Storytelling (3 hours)
+	•	Key Roles:
+	    1.	Outlier AI – Focus on AI prompts, workflows, and LLM tuning.
+	    2.	BNY Mellon – Highlight risk modeling, CLOs, and predictive analytics.
+	    3.	Maac Technologies – Discuss REST APIs, data pipelines, and CI/CD.
+
+	•	Projects:
+	    1.	Raspberry Pi AI Camera – Focus on problem-solving and prototype deployment.
+	    2.	CryptoSight AI – Showcase anomaly detection and blockchain analytics.
+	    3.	London Issue Tracker – Demonstrate real-time issue tracking and AI insights.
+
+	•	STAR Method: Practice 2-3 examples for each project.
+	    •	Situation – The challenge you faced.
+	    •	Task – What you needed to accomplish.
+	    •	Action – Steps you took to solve it.
+	    •	Result – Outcome and measurable impact.
+
+
+Hour 5-6 – Technical Skills Refresher (2 hours)
+	•	Python:
+	    •	Data cleaning, filtering, and aggregation with Pandas/NumPy.
+	    •	Practice loops, list comprehensions, and lambda functions.
+
+	•	SQL:
+	    •	Write joins, group by, and subqueries.
+	    •	Focus on window functions (e.g., row_number, rank).
+
+	•	Machine Learning:
+	    •	Regression Models – Pros: Simplicity; Cons: Assumes linearity.
+	    •	Tree-Based Models – Pros: Handles non-linearity; Cons: Can overfit.
+	    •	Neural Networks – Pros: Handles complex patterns; Cons: Requires large data.
+
+
+Hour 7 – Behavioral Questions Practice (1 hour)
+	•	Prepare answers for:
+        1.	Problem-Solving – How did you fix a major issue in a project?
+        2.	Team Collaboration – Example of working with cross-functional teams.
+        3.	Leadership – Times you led or owned an initiative.
+
+
+Hour 8 – CLO and Financial Knowledge (1 hour)
+	•	CLO Basics:
+        •	Explain CLO tranches and risk levels.
+        •	Discuss risk metrics like credit, liquidity, and prepayment risks.
+	•	Lendable’s Data Models:
+        •	Focus on risk modeling and credit scoring pipelines.
+        •	Explain how ML improves credit decision-making.
+
+
+Hour 9 – Mock Interview Practice (1 hour)
+	•	Do a self-practice or record responses to common technical and behavioral questions.
+	•	Focus on timing—keep answers concise (~2 minutes).
+
+
+Hour 10 – Final Touch-ups and Questions for Them (1 hour)
+	•	Review the prep material they provided.
+	•	Write down 3-5 thoughtful questions to ask:
+        1.	What does success look like for this role in 6 months?
+        2.	How do data scientists at Lendable balance modeling and deployment?
+        3.	What tools are most frequently used in your current pipeline?
+        4.	How do you handle regulatory constraints in model building?
+        5.	What’s the team culture like, and how do they encourage growth?
+
+
+A Collateralized Loan Obligation (CLO) is a financial product that pools together a collection of loans, often corporate loans, and then issues securities backed by these loans. 
+The loans’ cash flows are divided into different tranches, each with varying levels of risk and return. Investors can choose tranches based on their risk appetite, 
+with senior tranches being safer but offering lower returns, and junior tranches being riskier but potentially more rewarding.
+
+In a CLO with 200 loans, the structure and ratings might look like this:
+	•	Senior Tranche (AAA-rated): This tranche would have the highest credit rating and be the safest, typically making up a significant portion of the CLO. Investors in this tranche get paid first but receive lower yields.
+	•	Mezzanine Tranche (A/BBB-rated): This tranche carries more risk and offers higher returns compared to the senior tranche. Investors here get paid after the senior tranche but before the equity tranche.
+	•	Equity Tranche: This is the riskiest tranche with the highest potential returns. Investors in this tranche are paid last, after all other tranches.
+
+Risks:
+	•	Credit Risk: The main concern is borrower defaults, which would first affect the equity tranche.
+	•	Liquidity Risk: The possibility that the CLO tranches can’t be easily bought or sold.
+	•	Interest Rate Risk: Changes in interest rates can impact returns, especially for floating-rate tranches.
+	•	Prepayment Risk: Early loan repayments can alter expected cash flows.
+
+This structure helps distribute risk and return across different investor preferences.
+
+The “Big Three” credit rating agencies are:
+	1.	Standard & Poor’s (S&P)
+	2.	Moody’s Investors Service
+	3.	Fitch Ratings
+
+machine learning and data science are increasingly used in the CLO process:
+	•	Credit Risk Modeling: Machine learning models analyze vast amounts of data to predict the likelihood of borrower default.
+	•	Portfolio Optimization: Data science techniques help optimize the selection of loans to include in the CLO, balancing risk and return.
+	•	Monitoring and Surveillance: Machine learning models are used to continuously monitor the performance of the loans in the CLO, predicting potential issues early.
+
+
+Name - BALASUBRAMANIYAM N V
+Acc. No - 921010004447950
+IFSC - UTIB0001453
+Address - 1/63, PALANIYANDAVAR KOVIL STREET,NARASIPURAM PO, NARASIPURAM
